@@ -1,6 +1,17 @@
 ﻿Created 1/19/2013 by Noah Coad
 
 Improvement Ideas
+	have app save config file for easier editing
+	include x10cmd.exe, python info, etc
+	auto-select control interface method, and document, like see if it can find _______
+	publishing updates
+		remove dummy files from git, like bin/
+		blog post about it
+			red = be quite and don't disturb, Daddy's on an important phone call
+			yellow = you can come in to give Daddy a hug
+			green = play time! Daddy is off work
+			http://amzn.com/B001ANRC3E/?tag=azdp-20
+		add screenshots to readme.md		
 	make X10 controller parameters configurable (path to .exe and script files)
 	show the current state of the light in the UI
 		should it be an option?
@@ -8,10 +19,5 @@ Improvement Ideas
 	show the context menu on regular left-click (instead of just right-click)
 	inform the user on first launch where to make setting changes
 	post on github
-	blog post about it
-		red = be quite and don't disturb, Daddy's on an important phone call
-		yellow = you can come in to give Daddy a hug
-		green = play time! Daddy is off work
-		http://amzn.com/B001ANRC3E/?tag=azdp-20
 	make selection of X10 interface configurable
 	make X10 module to use plug-able
