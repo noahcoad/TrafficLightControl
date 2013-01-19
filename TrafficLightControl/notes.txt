@@ -1,6 +1,7 @@
 ﻿Created 1/19/2013 by Noah Coad
 
 Improvement Ideas
+	make X10 controller parameters configurable (path to .exe and script files)
 	show the current state of the light in the UI
 		should it be an option?
 		what would it look like, the system tray icon changing?
