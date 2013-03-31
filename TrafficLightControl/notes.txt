@@ -1,6 +1,8 @@
-﻿Created 1/19/2013 by Noah Coad
+Created 1/19/2013 by Noah Coad
 
 Improvement Ideas
+	don't close app on general windows 'close all' message
+	rename app to 'Traffic Light Control'
 	have app save config file for easier editing
 	include x10cmd.exe, python info, etc
 	auto-select control interface method, and document, like see if it can find _______
