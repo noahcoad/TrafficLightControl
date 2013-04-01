@@ -11,6 +11,8 @@ This project came about as a need to inform my kids when they could come into "D
 
 I've also used it in the past to automate indication of build status, green = build is good, yellow = building, red = build break.  The uses are endless.
 
+![](TrafficLightControl/imgs/screenshot01.png)
+
 ## Setup
 1. Get yourself a set of three lights, like a [traffic light](http://www.ebay.com/sch/i.html?_nkw=traffic+light&_armrs=1&_from=&_ipg=) or [lamp post](http://amzn.com/B001ANRC3E/?tag=azdp-20) w [colored bulbs](http://www.amazon.com/s?tag=azdp-20&url=index%3Dblended&keywords=colored+light+bulbs)
 2. Wire it up for X-10 home automation control.  One [X-10 controller](http://www.ebay.com/sch/i.html?_nkw=LM465&_sacat=0&_odkw=CM17A&_osacat=0&_armrs=1) per light (or [bulb screw](http://www.ebay.com/sch/i.html?_nkw=LM15A-C&_armrs=1&_from=&_ipg=) controller).
